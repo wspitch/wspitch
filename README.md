@@ -6,5 +6,7 @@
 
 (he/him)
 
-- 📚 studying human factors psychology @ [Embry-Riddle Aeronautical University](https://erau.edu){:target="_blank"}{:rel="noopener noreferrer"}
+<a href="https://erau.edu" target="_blank">Embry-Riddle Aeronautical University</a>
+
+- 📚 studying human factors psychology @ <a href="https://erau.edu" target="_blank">Embry-Riddle Aeronautical University</a>
 - 🔬 undergrad research assistant @ [RUX Lab](https://daytonabeach.erau.edu/about/labs/research-user-experience){:target="_blank"}{:rel="noopener noreferrer"}
