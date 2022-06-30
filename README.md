@@ -6,6 +6,6 @@
 
 (he/him)
 
-- 🎉 incoming PhD student @ [UW HCDE](https://www.hcde.washington.edu)
+- 🎉 incoming PhD student @ [HCDE UW](https://www.hcde.washington.edu)
 - 📚 graduated with a BS in human factors psychology @ [Embry-Riddle Aeronautical University](https://erau.edu)
 - 🔬 undergrad research assistant @ [RUX Lab](https://daytonabeach.erau.edu/about/labs/research-user-experience)
